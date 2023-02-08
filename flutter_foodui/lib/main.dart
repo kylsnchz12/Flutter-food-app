@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Netflix',
+      title: 'Food ui',
       theme: ThemeData(),
       home: const HomeScreen(),
     );
